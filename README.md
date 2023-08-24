@@ -9,7 +9,7 @@ Waves by Frog //ROi<br>
 
 <p>Video: https://www.youtube.com/watch?v=5SKMmvOhEQs
 
-<p>Released at Undefined'2023 Winter demo party
+<p>Released at Undefined'2023 demo party
 
 <p>License: MIT
 
